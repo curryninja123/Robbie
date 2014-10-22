@@ -1,0 +1,21 @@
+Robbie
+------
+
+Robbie is an open-sourced quasi-humanoid robot platform made by Vishnu Iyer. The main purpose of Robbie is to carry small items back and forth between so-called "base points." The versatility of Robbie in this task, however, is attributed to a series of command scripts created in various ways by the user, known as RobCode files. These files are formatted onto an SD card which is then read by Robbie's SD card shield. Here is a list of RobCode keywords and symbols:
+
+. <code>@</code>		beginning of RobCode
+. <code>~</code>		new line of instruction
+. <code>_</code>		space
+. <code>#</code>		end of RobCode
+. <code>f_x</code>		moves forward x centimeters
+. <code>b_x</code>		moves backwards x centimeters
+. <code>r_x</code>		turns x degrees right
+. <code>l_x</code>		turns x degrees left
+. <code>c_x</code>		turns LED to a certain color
+
+<h4>Project Information</h4>
+<ul>
+	<li>Author: Vishnu Iyer</li>
+	<li>Version: 1.0 alpha</li>
+	<li>Last updated: 10/21/14</li>
+</ul>
