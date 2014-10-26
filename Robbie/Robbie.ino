@@ -55,21 +55,21 @@ void getCommand(String str){				// command to return RobCode command line
 		String temp = "";
 		if(!(str.charAt(k)+"").equals(nextLineConstant))		// compares current character to next line constant
 		{
-			temp+=str.charAt(k);
+			temp+=str.charAt(k);								// adds character at current index
 		}
 		else
 		{
-			parseCommand(temp);
-			temp = "";
+			parseCommand(temp);									// parses given command
+			temp = "";											// resets value of str
 		}
 		k++;
 	}
 }
 
-void parseCommand (String str) {
+void parseCommand (String str) {								// converts command into action call
 	
 }
 
-void execute (String str, int val) {
+void execute (String str, int val) {							// performs action with a descriptor and magnitude
 
 }
