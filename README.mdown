@@ -17,6 +17,10 @@ Robbie is an open-sourced quasi-humanoid robot platform made by Vishnu Iyer. The
 <h4>Project Information</h4>
 <ul>
 	<li>Author: Vishnu Iyer</li>
-	<li>Version: 1.0o alpha</li>
+	<li>Version: 1.0 alpha</li>
 	<li>Last updated: 10/21/14</li>
 </ul>
+
+How to use the code
+-------------------
+Call the function command(String) with an argument from the library presented above. This will trigger the robot's actions.
