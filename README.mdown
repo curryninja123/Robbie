@@ -23,8 +23,7 @@ Robbie is an open-sourced quasi-humanoid robot platform made by Vishnu Iyer. The
 
 Building the Robot
 ------------------
-Go to <a href = "http://www.instructables.com/id/Robbie-Your-Own-Customizable-Humanoid-Assistant/">my project page</a> and <br>
-read the Instructable on how to build Robbie. Then download the code and follow the instructions presented on the page.
+Go to <a href = "http://www.instructables.com/id/Robbie-Your-Own-Customizable-Humanoid-Assistant/">my project page</a> and read the Instructable on how to build Robbie. Then download the code and follow the instructions presented on the page.
 
 Strictly client methods
 -----------------------
