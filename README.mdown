@@ -21,6 +21,17 @@ Robbie is an open-sourced quasi-humanoid robot platform made by Vishnu Iyer. The
 	<li>Last updated: 10/21/14</li>
 </ul>
 
+Building the Robot
+------------------
+Go to <a href = "http://www.instructables.com/id/Robbie-Your-Own-Customizable-Humanoid-Assistant/">my project page</a> and <br>
+read the Instructable on how to build Robbie. Then download the code and follow the instructions presented on the page.
+
+Strictly client methods
+-----------------------
+. <code>void color(int r, int g, int b)</code>	~   Changes the color of the LED, r codes for red on/off, g codes for green on/off, b for blue on/off (each is 1 or 0)<br>
+. <code>void command(String str)</code>	 	~   reads RobCode command string (str) and converts it to an action<br>
+. <code>void drive(int i)</code> 		~   moves the robot's motors. 1 is for forward, 2 for reverse, 3 for left, 4 for right.
+
 How to use the code
 -------------------
-Call the function command(String) with an argument from the library presented above. This will trigger the robot's actions.
+Call the function command(String) with an argument from the library presented above. This will trigger the robot's actions. You can also write code of your own using the methods presented in the program. If you have any questions about the code, please do not hesitate to send me an email.
